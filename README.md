@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @peyba
+- 👀 I’m interested in MS SQL, PG, JAVA
+- 🌱 I’m currently learning JAVA CORE, SPRING
+- 💞️ I’m looking to collaborate on litle international project. For traning and fun =)
